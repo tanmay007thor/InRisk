@@ -15,22 +15,7 @@ This is a simple backend REST API built using Flask. It fetches and manipulates 
 ## Project Structure
 The project follows a modular structure:
 
-```
-InRisk/
-│
-├── app.py                      # Main entry point for the Flask application
-├── controllers/
-│   ├── __init__.py             # Marks the directory as a package
-│   └── product_controller.py   # Controller for handling product routes
-├── routes/
-│   ├── __init__.py             # Marks the directory as a package
-│   └── routes.py               # Blueprint for product routes
-├── services/
-│   ├── __init__.py             # Marks the directory as a package
-│   └── product_service.py      # Handles product logic (fetching and adding)
-├── error_handler.py            # Centralized error handling
-└── requirements.txt            # List of required dependencies
-```
+ 
 
 ## Setup Instructions
 
