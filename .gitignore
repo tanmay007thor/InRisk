@@ -1,0 +1,36 @@
+# Python-specific files
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+*.db
+*.sqlite3
+
+# Virtual environment
+venv/
+env/
+*.env
+*.venv
+
+# Logs
+*.log
+
+# Cache
+.cache/
+*.tmp
+
+# IDEs and editors
+.vscode/
+.idea/
+*.iml
+*.swp
+
+# OS-specific files
+.DS_Store
+Thumbs.db
+
+# Python egg and distribution
+*.egg-info/
+dist/
+build/
+.eggs/
